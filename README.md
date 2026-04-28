@@ -1,6 +1,6 @@
 # Welcome to my Personal Project Github! 👋 
 
-I'm a Mechatronics Engineering student at the University of Waterloo (Class of 2026). I'm highly passionate about the intersection of scalable software and artificial intelligence, constantly exploring new frameworks to build smarter applications.
+I am a Mechatronics Engineering graduate from the University of Waterloo (Class of 2026) and someone who is highly passionate about the intersection of scalable software and artificial intelligence, constantly exploring new frameworks to build smarter applications.
 
 <center> 
  
