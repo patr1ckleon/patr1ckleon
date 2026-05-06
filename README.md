@@ -10,8 +10,7 @@ I am a Mechatronics Engineering graduate from the University of Waterloo (Class 
 
 ### 🧠 What I'm Currently Building/Learning
 
- #### 🤖 **Applied AI & Agentic Workflows**
-* Moving beyond basic API calls to build autonomous AI systems. My current focus includes:
+* 🤖 **Applied AI & Agentic Workflows** Moving beyond basic API calls to build autonomous AI systems. My current focus includes:
    * Orchestrating stateful AI agents from scratch in **Python** using frameworks like **LangChain** and **Pydantic** for structured data handling.
    * Architecting **Retrieval-Augmented Generation (RAG)** pipelines to securely connect LLMs to private knowledge bases and vector stores.
 
